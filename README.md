@@ -1,4 +1,5 @@
 # Hi, I'm Adem 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a01adem&show_icons=true&theme=radical)
 
 ## About Me
 
