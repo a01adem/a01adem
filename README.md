@@ -1,6 +1,4 @@
 # Hi, I'm Adem 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a01adem&show_icons=true&theme=radical)
-
 ## About Me
 
 *   My name is Adem
@@ -15,28 +13,41 @@ I'm currently working on improving my coding skills and building exciting projec
 
 ## Skills
 
-<!-- List your skills here (e.g., Python, JavaScript, React, etc.) -->
-*   Programming Languages: (e.g., Python, JavaScript, C++)
-*   Web Development: (e.g., HTML, CSS, JavaScript, React)
-*   Databases: (e.g., MySQL, PostgreSQL)
-*   Other: (e.g., Git, Linux)
+### Programming Languages:
+*   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
+*   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) Python
+*   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) TypeScript
+
+### Web Development:
+*   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) HTML
+*   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) CSS
+*   ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) React.js
+*   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) Next.js
+*   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) Tailwind CSS
+
+### Backend Development:
+*   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Express.js
+
+### Databases:
+*   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
+
+### Tools:
+*   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white) Visual Studio Code
+*   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) Postman
+*   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) Figma
 
 ## Connect with me
 
-*   [LinkedIn](/* Add your LinkedIn profile URL here */)
-*   [Twitter](/* Add your Twitter profile URL here */)
+*   [Youtube](https://www.youtube.com/@a01adem)<br>
+*   [Twitter](https://x.com/Adem_benziden)
 
 ## GitHub Stats
 
-<!-- Add your GitHub stats here using a tool like GitHub Readme Stats -->
-<!-- Example: -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a01adem&show_icons=true&theme=radical)
 
 ## Top Languages
 
-<!-- Add your top languages graph here using a tool like GitHub Readme Stats -->
-<!-- Example: -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01adem&layout=compact)
 
 ---
 
