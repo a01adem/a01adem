@@ -30,14 +30,17 @@ I'm currently working on improving my coding skills and building exciting projec
 *   ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) React.js
 *   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) Next.js
 *   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) Tailwind CSS
+*   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) Bootstrap
 
 ### Backend Development:
 *   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Express.js
 
 ### Databases:
 *   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
+*   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) PostgreSQL
 
 ### Tools:
+*   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Git
 *   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white) Visual Studio Code
 *   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) Postman
 *   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) Figma
