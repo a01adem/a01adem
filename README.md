@@ -1,5 +1,5 @@
 # Hi, I'm Adem 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0C&background=FFFFFF00&center=true&width=435&lines=Welcom+To+My+Gifthub+Profile;I+Am+A+MERN+Stack+Developer;I+Am+A+Frontend+developer;I+Am+A+Backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0C&background=FFFFFF00&center=true&width=435&lines=Welcom+To+My+Github+Profile;I+Am+A+MERN+Stack+Developer;I+Am+A+Frontend+developer;I+Am+A+Backend+developer)](https://git.io/typing-svg)
 
   [![Profile Views](https://komarev.com/ghpvc/?username=a01adem&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/wickstudio)
   [![GitHub Followers](https://img.shields.io/github/followers/a01adem?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/wickstudio?tab=followers)
