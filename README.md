@@ -24,6 +24,8 @@ I'm currently working on improving my coding skills and building exciting projec
 *   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
 *   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) Python
 *   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) TypeScript
+*   ![EJS](https://img.shields.io/badge/-EJS-4C4C4C?logo=ejs&logoColor=white) EJS
+
 
 ### 🎨 FrontEnd Development:
 *   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) HTML
@@ -33,14 +35,15 @@ I'm currently working on improving my coding skills and building exciting projec
 *   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) Tailwind CSS
 *   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) Bootstrap
 
-### ⚙️ Backend & Databases:
+### ⚙️ Backend & Databases & Libraries:
 *   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Express.js
 *   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
 *   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) PostgreSQL
+*   ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white) Socket.IO
 
 ### 🔧 Tools:
 *   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Git
-*   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white) Visual Studio Code
+*   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white) VS Code
 *   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) Postman
 *   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) Figma
 
