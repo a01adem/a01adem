@@ -56,7 +56,7 @@ I'm currently working on improving my coding skills and building exciting projec
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a01adem&show_icons=true&theme=radical)
 
-## Top Languages
+## ✌️ Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a01adem&layout=compact)
 
