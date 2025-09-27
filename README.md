@@ -11,7 +11,7 @@
 *   My name is Adem ✌️
 *   I'm 19 years old 👀
 *   I'm from Algeria 🇩🇿
-*   Check out my personal website: [adem.a0001.net](https://a01dev.xyz) 🌐
+*   Check out my personal website: [a01dev.xyz](https://a01dev.xyz) 🌐
 
 ## ❓ What I'm working on
 
