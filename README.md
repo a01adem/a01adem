@@ -39,6 +39,7 @@ I'm currently working on improving my coding skills and building exciting projec
 *   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Express.js
 *   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
 *   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) PostgreSQL
+*   ![Supabase]([https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white](https://img.shields.io/badge/database-Supabase-00ABC7?logo=supabase&logoColor=white)) Supabase
 *   ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white) Socket.IO
 
 ### 🔧 Tools:
