@@ -9,9 +9,7 @@
 ## 👨‍💻 About Me
 
 *   My name is Adem ✌️
-*   I'm 19 years old 👀
-*   I'm from Algeria 🇩🇿
-*   Check out my personal website: [a01dev.xyz](https://a01dev.xyz) 🌐
+*   Check out my personal website: [a01dev.xyz](a01dev-website.vercel.app) 🌐
 
 ## ❓ What I'm working on
 
